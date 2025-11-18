@@ -1,0 +1,11 @@
+.venv/
+env/
+venv/
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
+*.xlsx
+*.xls
+*.xml
+*.zip
+data/
